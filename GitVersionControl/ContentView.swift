@@ -18,6 +18,7 @@ struct ContentView: View {
         .padding()
     }
 }
+// Apple.
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
